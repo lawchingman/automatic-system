@@ -2,4 +2,4 @@ bert-tensorflow
 dopamine-rl==3.0.1
 regex
 tensor2tensor
-tensorflow==1.15
+tensorflow==2.11.1
